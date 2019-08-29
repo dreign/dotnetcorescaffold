@@ -80,6 +80,7 @@ dotnet add package Newtonsoft.Json
 dotnet add package Autofac
 dotnet add package Autofac.Extensions.DependencyInjection
 dotnet add package AutoMapper
+dotnet add package AutoMapper.Extensions.Microsoft.DependencyInjection
 dotnet add package Dapper
 dotnet add package Microsoft.Extensions.Options
 dotnet add package Microsoft.Extensions.Caching.Abstractions
